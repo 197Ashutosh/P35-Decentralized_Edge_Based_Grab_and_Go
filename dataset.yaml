@@ -1,0 +1,11 @@
+# YOLOv8 Dataset Configuration
+# Modify the paths below to point to where you download your images
+
+path: ./datasets/retail_interaction  # Root dir of your dataset
+train: images/train                  # train images (relative to 'path')
+val: images/val                      # val images (relative to 'path')
+
+# Classes
+names:
+  0: hand
+  1: product

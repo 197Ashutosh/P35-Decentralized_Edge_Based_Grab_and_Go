@@ -1,0 +1,5 @@
+names:
+  0: Grocery Product
+path: C:\Users\197as\Documents\Document\7th SEM\Final Year Project\ai_vision_engine\custom_dataset
+train: images/train
+val: images/train
